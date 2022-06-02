@@ -1,6 +1,7 @@
 {
   "Asset": {
     "name": { "string": {} },
-    "id": { "string": {} }
+    "id": { "string": {} },
+    "ideau": { "string": {} }
   }
 }
